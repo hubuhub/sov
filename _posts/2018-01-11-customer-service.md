@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Inception Movie"
-author: Divan3000
+author: Admin
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg

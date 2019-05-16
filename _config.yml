@@ -1,7 +1,7 @@
 # Site
 name: "Sovetchik"
 title: "Sovetchik"
-description: "Делимся секретами, открытами, полезной информацией с любимыми читателями."
+description: "Делимся секретами, открытиями, полезной информацией с любимыми читателями."
 logo: 'assets/logo.png'
 favicon: 'assets/logo.png'
 baseurl: /

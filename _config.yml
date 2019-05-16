@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  nickname:
     name: Nickname
     display_name: Nickname
     gravatar: 
@@ -21,7 +21,7 @@ authors:
     web: 
     twitter: 
     description: ""
-  john:
+  admin:
     name: Admin
     display_name: Admin   
     avatar: 'assets/images/avatar.png'

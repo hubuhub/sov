@@ -4,7 +4,7 @@ title: "Sovetchik"
 description: "Делимся секретами, открытиями, полезной информацией с любимыми читателями."
 logo: 'assets/logo.png'
 favicon: 'assets/logo.png'
-baseurl: //sovetchik.club/
+baseurl: //sovetchik.club
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''

@@ -3,7 +3,7 @@ layout: post
 title:  "Плюсы и минусы татуажа век"
 author: admin
 categories: [ Красота, Здоровье ]
-tags: [red, yellow]
+tags: [татуажвек, татуажсамара]
 image: assets/images/tatyazh-vek-2.jpg
 description: "Мы поможем Вам узнать больше про плюсы и минусы татуажа век, а так же определиться с выбором процедуры."
 featured: true

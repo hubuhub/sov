@@ -45,6 +45,16 @@ title: Главная
         {% include postbox.html %}
 
         {% endfor %}
+        
+            {% for post in site.posts %}
+
+        {% if post.featured == false %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
 
     </div>
 

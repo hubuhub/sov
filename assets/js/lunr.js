@@ -43,6 +43,9 @@ var idx = lunr(function () {
   this.field('title', { boost: 10 });
   this.field('body');
   // now you can call this.add(...) to add documents written in German
+  documents.forEach(function (doc) {
+  this.add(doc)
+  }, this)
 });  
   
 var lunr = function (config) {

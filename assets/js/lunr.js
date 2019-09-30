@@ -44,6 +44,7 @@ var idx = lunr(function () {
   this.use(lunr.ru)
   this.ref('id')
   this.field('text')
+  this.field('body')
 })
   
 var lunr = function (config) {

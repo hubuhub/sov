@@ -36,16 +36,6 @@
  * @see {@link lunr.stemmer}
  * @namespace {function} lunr
  */
-var lunr = require("lunr")
-require("assets/js/lunr.stemmer.support")(lunr)
-require("assets/js/lunr.ru")(lunr)
-
-var idx = lunr(function () {
-  this.use(lunr.ru)
-  this.ref('id')
-  this.field('text')
-  this.field('body')
-})
   
 var lunr = function (config) {
   var builder = new lunr.Builder

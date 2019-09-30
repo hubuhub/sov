@@ -18,8 +18,7 @@
  * and other builder parameters to be customised.
  *
  * All documents _must_ be added within the passed config function.
- *
- * @example
+ * 
  * var idx = lunr(function () {
  *   this.field('title')
  *   this.field('body')
@@ -37,6 +36,15 @@
  * @see {@link lunr.stemmer}
  * @namespace {function} lunr
  */
+var idx = lunr(function () {
+  // use the language (de)
+  this.use(lunr.ru);
+  // then, the normal lunr index initialization
+  this.field('title', { boost: 10 });
+  this.field('body');
+  // now you can call this.add(...) to add documents written in German
+});  
+  
 var lunr = function (config) {
   var builder = new lunr.Builder
 

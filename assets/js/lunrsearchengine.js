@@ -22,8 +22,8 @@ var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or p
     }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
 
 var lunr = require("lunr")
-require("{{ site.url }}/assets/js/lunr.stemmer.support")(lunr)
-require("{{ site.url }}/assets/js/lunr.ru")(lunr)
+require("{{ site.url }}/assets/js/lunr.stemmer.support.js")(lunr)
+require("{{ site.url }}/assets/js/lunr.ru.js")(lunr)
 
 var idx = lunr(function () {
   this.use(lunr.ru)

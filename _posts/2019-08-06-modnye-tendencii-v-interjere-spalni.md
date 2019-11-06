@@ -6,7 +6,7 @@ categories: [ Дизайн ]
 tags: [дизайн, интерьер]
 image: assets/images/sovremennij-dizajn-spalni.jpg
 description: "Читайте в нашей статье о модных тенденциях в интерьере спальни, какое оформление сейчаc в моде, современный стиль"
-featured: true
+featured: false
 hidden: false
 rating: 4
 ---

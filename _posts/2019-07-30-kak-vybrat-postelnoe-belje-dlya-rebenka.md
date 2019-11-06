@@ -6,7 +6,7 @@ categories: [ Дети, Текстиль, Дом ]
 tags: [постельное белье, для ребенка]
 image: assets/images/postelnoe-belje-dlya-rebenkajpg.jpg
 description: "Мы поможем Вам узнать, каким должно быть детское постельное белье, и как правильно его выбрать. Советы родителям"
-featured: true
+featured: false
 hidden: false
 rating: 4
 ---

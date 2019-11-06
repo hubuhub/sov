@@ -6,7 +6,7 @@ categories: [ Дом, Дача ]
 tags: [бассейн, дача]
 image: assets/images/bassejn-na-zimu-3.jpg
 description: "Мы поможем Вам узнать как правильно консервировать уличный бассейн на зиму, сколько воды оставить - все секреты и тонкости"
-featured: true
+featured: false
 hidden: false
 rating: 4
 ---

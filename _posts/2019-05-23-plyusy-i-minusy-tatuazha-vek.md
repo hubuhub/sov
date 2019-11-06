@@ -6,7 +6,7 @@ categories: [ Красота, Здоровье ]
 tags: [татуажвек, татуажсамара]
 image: assets/images/tatyazh-vek-2.jpg
 description: "Мы поможем Вам узнать больше про плюсы и минусы татуажа век, а так же определиться с выбором процедуры."
-featured: true
+featured: false
 hidden: false
 rating: 4
 ---

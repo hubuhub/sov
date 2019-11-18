@@ -4,8 +4,7 @@ title:  "Как выбрать детский манеж"
 author: admin
 categories: [ Дети, Дом ]
 tags: [манеж, воспитаниедетей]
-image: assets/images/
-kak-vybrat-detskij-manezh.jpg
+image: assets/images/kak-vybrat-detskij-manezh.jpg
 description: "Мы расскажем вам как и какой детский манеж выбрать для ребенка."
 featured: false
 hidden: false

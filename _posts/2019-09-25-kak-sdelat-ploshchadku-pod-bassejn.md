@@ -6,7 +6,7 @@ categories: [ Дача, Своими руками ]
 tags: [бассейн, ремонт]
 image: assets/images/ploshadka_dlya_bassejna.jpg
 description: "Мы поможем Вам узнать, как подготовить площадку под бассейн, как выровнять место для основания."
-featured: true
+featured: false
 hidden: false
 rating: 4
 ---

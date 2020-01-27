@@ -6,7 +6,7 @@ categories: [ Праздники, Подарки ]
 tags: [женщина, 8марта]
 image: assets/images/podarki-8-marta.jpg
 description: "Мы расскажем вам какие подарки можно дарить женщинам на 8 марта."
-featured: false
+featured: true
 hidden: false
 rating: 4
 ---

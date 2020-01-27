@@ -7,7 +7,7 @@ tags: [бассейн, ремонт]
 image: assets/images/kak-provozit-koshek-v-poezde.png
 description: "Вы узнаете можно ли, как и в каких вагонах перевозить кошек в поездах по России, читайте все правила, чтобы быть в курсе."
 featured: false
-hidden: false
+hidden: true
 rating: 4
 ---
 

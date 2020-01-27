@@ -6,8 +6,8 @@ categories: [ Праздники, Новый год ]
 tags: [ новыйгод]
 image: assets/images/novogodnyaya-noch-na-prirode.jpg
 description: "Мы поможем Вам узнать как подготовиться и хорошо провести новогодню ночь на природе."
-featured: true
-hidden: false
+featured: false
+hidden: true
 rating: 4
 ---
 
